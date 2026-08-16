@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pt
+test_clip.mp4
+test_out*.mp4
+preview_*.png
+optifye_demo*.mp4
+_supervisor.mp4
+_final.mp4
